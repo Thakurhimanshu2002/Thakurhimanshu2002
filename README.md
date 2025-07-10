@@ -8,7 +8,7 @@
 
 ## 🔧 Tools & Skills
 
-`SQL` `Excel` `Power BI` `Python`` Numpy` `Data Cleaning` `Storytelling with Data` `ERP Knowledge`
+`SQL` `Excel` `Power BI` `Python` ` Numpy` `Data Cleaning` `Storytelling with Data` `ERP Knowledge`
 
 ---
 

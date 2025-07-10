@@ -21,6 +21,5 @@
 ---
 
 ## 📫 Connect With Me
-
-[LinkedIn]https://www.linkedin.com/in/himanshu--thakur/ • [Email](himanshuth87@gmail.com)
+[https://www.linkedin.com/in/himanshu--thakur/] • [himanshuth87@gmail.com]
 
